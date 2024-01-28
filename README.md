@@ -1,5 +1,16 @@
-# Questions
+# Thème "Eco-Friendly" : Carte Interactive de Durabilité
 
+1. Comment intégrez-vous des pratiques écologiques dans votre vie quotidienne ?
+
+2. Comment vous déplacez-vous au quotidien, et quelles mesures prenez-vous pour rendre vos déplacements plus respectueux de l'environnement ?
+
+3. Trouvez-vous difficile de localiser des endroits respectueux de l'environnement, tels que des magasins bio, des espaces verts, des restaurants éco-friendly, ou les poubelles de tri sélectif?
+
+4. Avez-vous des difficultés à adopter des habitudes éco-friendly dans votre vie quotidienne en raison de l'accessibilité des services et des produits ?
+
+5. Lorsque vous cherchez des informations sur des initiatives écologiques dans votre région, quelles sources utilisez-vous et trouvez-vous ces informations facilement accessibles ?
+
+# Questions possibles
 
 ## 1. Voyage mémorable avec l'utilisation d'une carte :
 Question 1: Pouvez-vous partager une expérience de voyage récente où l'utilisation d'une carte a joué un rôle majeur dans la résolution d'un problème ou dans la création de souvenirs mémorables?
@@ -27,3 +38,5 @@ Question 2: Comment la carte a-t-elle facilité ou amélioré votre travail dans
 Question 3: Quels sont les aspects importants que vous recherchez dans une carte lorsque vous travaillez, et comment cela influence-t-il votre choix d'outils cartographiques?
 
 Question 4: Y a-t-il des fonctionnalités spécifiques que vous aimeriez voir dans les applications de cartes pour les besoins professionnels?
+
+
