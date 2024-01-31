@@ -46,11 +46,6 @@ L’activité écologique exaspère les consommateurs par l’imposition de trop
 
 
 # CAI
-
-5.	Lorsque vous cherchez des informations sur des initiatives écologiques dans votre région, quelles sources utilisez-vous et trouvez-vous ces informations facilement accessibles ?
-●	J'obtiens des informations sur l'écologiques par le biais des actualités ou des tweets des logiciels sociaux. Je ne consulte pas spécifiquement les actualités liées à l'environnement, il est donc relativement rare de voir des informations à ce sujet.
- 
-
 Voyage mémorable avec l'utilisation d'une carte
 1.	Pouvez-vous partager une expérience de voyage récente？ Comment planifiez-vous votre voyage ?
 Mon dernier voyage était à Lille. Je marquerais les sites touristiques sur une carte et je choisirais ensuite un hôtel qui se trouve au centre des sites touristiques ou qui permet d'y accéder facilement. Ensuite, je marquerais les restaurants qui m'intéressent sur la carte et je différencierais les sites touristiques en fonction de l'emplacement des restaurants et j'irais dans un secteur par jour.
