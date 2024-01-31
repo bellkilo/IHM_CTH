@@ -1,19 +1,43 @@
-# TAO
 ## Comment intégrez-vous des pratiques écologiques dans votre vie quotidienne ?
 D’abord mes pratiques sont économiques, financières et de bons sens j’applique les règles sur le tri des déchets poubelles jaunes et vertes ensuite je fais attention à ma consommation d’électricité et d’eau 
+
+Apportez vos propres sacs de courses lorsque vous sortez, jetez vos déchets à la poubelle et prenez les transports en commun lorsque vous sortez.
+
+Dans ma vie quotidienne, je m'efforce de réduire la consommation de ressources, par exemple en utilisant des ampoules à économie d'énergie, en limitant l'utilisation de produits jetables et en privilégiant autant que possible les matériaux recyclables ou biodégradables.
+
+Dans ma vie quotidienne, j'intègre des  écologiques en réduisant ma consommation d'énergie, en recyclant, en privilégiant les produits locaux et en limitant l'utilisation de plastique à usage unique. J'utilise souvent des produits recyclables comme le verre.
 
 ## Comment vous déplacez-vous au quotidien, et quelles mesures prenez-vous pour rendre vos déplacements plus respectueux de l'environnement ?
 Pour mes déplacements j’utilise les transports en commun et j’ai changé mon véhicule diesel de 14 ans d’âge par un véhicule électrique 
 
+Prenez le bus ou le métro pour sortir de chez vous.
+
+Lorsque j'ai besoin d'utiliser une voiture privée, je considère l'utilisation de véhicules électriques ou hybrides et j'essaie autant que possible de faire du covoiturage.
+
+Pour me déplacer, j'opte principalement pour les transports en commun, le vélo ou la marche lorsque c'est possible. De plus, je privilégie la marche ou le vélo pour les courts trajets.
+
 ## Trouvez-vous difficile de localiser des endroits respectueux de l'environnement, tels que des magasins bio, des espaces verts, des restaurants éco-friendly, ou les poubelles de tri sélectif?
 On peut retrouver des poubelles sélectives surtout dans les banlieues mais à Paris pas autant que ca, généralement des les rues on n’en trouve pas
+
+Les espaces verts sont plus faciles à trouver, les poubelles de recyclage sont plus difficiles à trouver
+
+En effet, il est parfois difficile de trouver des magasins ou des installations écologiques, mais j'utilise diverses ressources en ligne et applications pour m'aider à localiser ces lieux. Par exemple, 《Tap Hydration》 offre des emplacements partout dans le monde où vous pouvez recharger votre bouteille d'eau, dans le but de réduire l'utilisation de bouteilles en plastique jetables.
+
+Il peut parfois être difficile de localiser des endroits respectueux de l'environnement, mais j'utilise les réseaux sociaux pour trouver des magasins bio, des espaces verts et des restaurants éco-friendly.
 
 # Avez-vous des difficultés à adopter des habitudes éco-friendly dans votre vie quotidienne en raison de l'accessibilité des services et des produits ?
 Les difficultés à adopter des habitudes écologiques sont de l’ordre financières les services et produits écologiques sont plus chers à se procurer 
 
+Oui, je n'accorde pas d'attention particulière aux comportements respectueux de l'environnement dans ma vie. Parce que je ne connais pas grand-chose aux services liés à l'environnement et à la protection de l'environnement.
+
+L'accessibilité des services et des produits qui respectent l'environnement peut parfois poser problème, notamment dans les zones moins développées.
 
 # Lorsque vous cherchez des informations sur des initiatives écologiques dans votre région, quelles sources utilisez-vous et trouvez-vous ces informations facilement accessibles ?
 Les sources d’information sont les sites internet 
+
+J'obtiens des informations sur l'écologiques par le biais des actualités ou des tweets des logiciels sociaux. Je ne consulte pas spécifiquement les actualités liées à l'environnement, il est donc relativement rare de voir des informations à ce sujet.
+
+Pour trouver des informations sur des initiatives écologiques dans ma région, je consulte quelques sites internet et réseaux sociaux et parfois je demande à des amis ou à la famille.
 
 
 L’activité écologique exaspère les consommateurs par l’imposition de trop nombreuses normes qui empoisonnent la vie des consommateurs et les obligent à trouver des financements pour respecter ces normes écologiques 
@@ -22,18 +46,7 @@ L’activité écologique exaspère les consommateurs par l’imposition de trop
 
 
 # CAI
-Thème "Eco-Friendly" : Carte Interactive de Durabilité
-1.	Comment intégrez-vous des pratiques écologiques dans votre vie quotidienne?
-●	Apportez vos propres sacs de courses lorsque vous sortez, jetez vos déchets à la poubelle et prenez les transports en commun lorsque vous sortez.
-●	Dans ma vie quotidienne, je m'efforce de réduire la consommation de ressources, par exemple en utilisant des ampoules à économie d'énergie, en limitant l'utilisation de produits jetables et en privilégiant autant que possible les matériaux recyclables ou biodégradables.
-2.	Comment vous déplacez-vous au quotidien, et quelles mesures prenez-vous pour rendre vos déplacements plus respectueux de l'environnement ?
-●	Prenez le bus ou le métro pour sortir de chez vous.
-●	Lorsque j'ai besoin d'utiliser une voiture privée, je considère l'utilisation de véhicules électriques ou hybrides et j'essaie autant que possible de faire du covoiturage.
-3.	Trouvez-vous difficile de localiser des endroits respectueux de l'environnement, tels que des magasins bio, des espaces verts, des restaurants éco-friendly, ou les poubelles de tri sélectif?
-●	Les espaces verts sont plus faciles à trouver, les poubelles de recyclage sont plus difficiles à trouver
-●	En effet, il est parfois difficile de trouver des magasins ou des installations écologiques, mais j'utilise diverses ressources en ligne et applications pour m'aider à localiser ces lieux. Par exemple, 《Tap Hydration》 offre des emplacements partout dans le monde où vous pouvez recharger votre bouteille d'eau, dans le but de réduire l'utilisation de bouteilles en plastique jetables.
-4.	Avez-vous des difficultés à adopter des habitudes éco-friendly dans votre vie quotidienne en raison de l'accessibilité des services et des produits ?
-●	Oui, je n'accorde pas d'attention particulière aux comportements respectueux de l'environnement dans ma vie. Parce que je ne connais pas grand-chose aux services liés à l'environnement et à la protection de l'environnement.
+
 5.	Lorsque vous cherchez des informations sur des initiatives écologiques dans votre région, quelles sources utilisez-vous et trouvez-vous ces informations facilement accessibles ?
 ●	J'obtiens des informations sur l'écologiques par le biais des actualités ou des tweets des logiciels sociaux. Je ne consulte pas spécifiquement les actualités liées à l'environnement, il est donc relativement rare de voir des informations à ce sujet.
  
