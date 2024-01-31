@@ -6,9 +6,13 @@ D’abord mes pratiques sont économiques, financières et de bons sens j’appl
 Pour mes déplacements j’utilise les transports en commun et j’ai changé mon véhicule diesel de 14 ans d’âge par un véhicule électrique 
 
 ## Trouvez-vous difficile de localiser des endroits respectueux de l'environnement, tels que des magasins bio, des espaces verts, des restaurants éco-friendly, ou les poubelles de tri sélectif?
+On peut retrouver des poubelles sélectives surtout dans les banlieues mais à Paris pas autant que ca, généralement des les rues on n’en trouve pas
+
+# Avez-vous des difficultés à adopter des habitudes éco-friendly dans votre vie quotidienne en raison de l'accessibilité des services et des produits ?
 Les difficultés à adopter des habitudes écologiques sont de l’ordre financières les services et produits écologiques sont plus chers à se procurer 
 
 
+# Lorsque vous cherchez des informations sur des initiatives écologiques dans votre région, quelles sources utilisez-vous et trouvez-vous ces informations facilement accessibles ?
 Les sources d’information sont les sites internet 
 
 
