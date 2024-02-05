@@ -43,28 +43,24 @@ Pour trouver des informations sur des initiatives écologiques dans ma région, 
 L’activité écologique exaspère les consommateurs par l’imposition de trop nombreuses normes qui empoisonnent la vie des consommateurs et les obligent à trouver des financements pour respecter ces normes écologiques 
 À bas les écologistes se sont des extrémistes de gauche 
 
+# TAO
+`je n'ai pas noté les questions non significatives`
+Question : Comment intégrez-vous des pratiques écologiques dans votre vie quotidienne ?
+Réponse : j'évite d'utiliser les sacs plastiques et je prendre des transports en commun.
+
+Question : Pouvez-vous me raconter une journée typique où vous utilisez les transports en commun à Paris ?
+Réponse : Je dois prendre les transports en commun vers 7h-7h30 pour mes cours à 8H. Souvent, il y a des problèmes de transport comme des pannes de signalisation, des personnes sur la voie, ou des retards. Les bus passent toutes les 15 minutes, et les changements de transport sont trop longs. Certains endroits à Paris sont très éloignés des stations de métro, et les jours de grève, je ne peux pas me déplacer et dois prendre un Uber.
+
+Question : Avez-vous déjà rencontré des difficultés pour trouver un moyen de transport alternatif lors d'une grève ou d'un retard ?
+Réponse : Oui, il est parfois difficile de trouver un moyen alternatif. Généralement, je fais le trajet à pied, car les applications n'indiquent pas toujours l'heure réelle d'arrivée des trains.
+
+Question : Comment la possession d'une voiture électrique par vos parents influence-t-elle vos choix de transport ?
+Réponse : Ça ne m'influence pas parce que c'est difficile de trouver des bornes électriques pour charger. Les bornes se trouvent souvent dans les grands centres commerciaux en banlieue de Paris, ce qui n'est pas pratique.
+
+Question : Quels sont les aspects les plus importants pour vous lors du choix d'une voiture ?
+Réponse : je connais pas trop dans ce domaine. Mais je pense plus tard si je veut acheter une voiture, je vais plutôt regarder les qualité-prix, sa consommation d'essence ou d'électricité ça dépend, et aussi par rapport au pratique.
 
 
-# CAI
-Voyage mémorable avec l'utilisation d'une carte
-1.	Pouvez-vous partager une expérience de voyage récente？ Comment planifiez-vous votre voyage ?
-Mon dernier voyage était à Lille. Je marquerais les sites touristiques sur une carte et je choisirais ensuite un hôtel qui se trouve au centre des sites touristiques ou qui permet d'y accéder facilement. Ensuite, je marquerais les restaurants qui m'intéressent sur la carte et je différencierais les sites touristiques en fonction de l'emplacement des restaurants et j'irais dans un secteur par jour.
-2.	Comment avez-vous utilisé la carte pendant ce voyage? Était-ce pour la navigation, la découverte de lieux intéressants ou autre chose?
-Pour la navigation.
-3.	Quels défis avez-vous rencontrés pendant le voyage et comment la carte a-t-elle contribué à les résoudre?
-Comme il était tard pour notre retour et que la ville était déjà bien remplie, nous avons cherché sur la carte le cinéma le plus proche pour aller voir deux films.
-4.	Est-ce que l'expérience a influencé la façon dont vous utilisez généralement des applications ou des outils de cartographie?
-Non
-
-Événement particulier nécessitant une carte
-1.	Pouvez-vous raconter une histoire sur un événement récent où vous avez dû utiliser une carte pour résoudre un problème spécifique?
-Utilisé pour se repérer lors d'un voyage.
-2.	Comment la carte a-t-elle été utile dans cette situation? Quelles informations recherchiez-vous et comment les avez-vous trouvées sur la carte?
-Trouver le chemin le plus court.
-3.	Quels étaient les enjeux de ne pas avoir une carte dans cette situation?
-Comme il n'y a pas de panneaux indicateurs sur la route, il me faut plus de temps pour atteindre ma destination sans navigation.
-4.	 Y a-t-il quelque chose que vous auriez souhaité avoir sur la carte qui n'était pas disponible?
-J'aimerais que la carte contienne davantage d'avis. Comme il y a très peu d'avis sur Google Maps, la plupart des gens rédigent des avis sur d'autres sites. J'aimerais que la carte renvoie directement aux avis sur ces sites.
 
 
 
