@@ -13,15 +13,15 @@
 - **Réaction du système** : L'application de cartes montre des options limitées ou non optimisées pour les trajets multiples et complexes.
 - **Réponse de l'utilisateur** : Ahmed est pressé et stressé, il doit jongler entre différentes applications et sources d'information pour planifier efficacement.
 
-###Personas
+### Personas
 **Jean**, 22 ans, Étudiant: Jean utilise quotidiennement les transports en commun pour se rendre à l'université. Il est soucieux de l'environnement et évite d'utiliser les voitures personnelles. Il a besoin de solutions de transport fiables et en temps réel.
 
 **Marie**, 30 ans, Professionnelle: Marie travaille dans un bureau à Paris et dépend des transports publics pour ses déplacements. Elle est souvent confrontée à des grèves et des retards, et recherche des options de transport alternatives efficaces.
 
-###Personnage Extrême
+### Personnage Extrême
 **Ahmed**, 45 ans, Coordinateur de Logistique: Ahmed doit gérer des itinéraires complexes à travers Paris pour différentes personnes. Il a besoin d'accéder rapidement à des informations précises sur les différentes options de transport, y compris pendant les périodes de perturbation des services.
 
-###Scénario
+### Scénario
 **Contexte**: Une journée de travail typique à Paris, un jour de grève des transports publics.
 
 **Matin** : Jean se prépare pour l'université et vérifie son application de transport, qui montre des retards significatifs. Il décide de partir plus tôt et envisage d'autres moyens de transport.
