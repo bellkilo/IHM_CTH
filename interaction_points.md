@@ -25,5 +25,7 @@
 **Contexte**: Une journée de travail typique à Paris, un jour de grève des transports publics.
 
 **Matin** : Jean se prépare pour l'université et vérifie son application de transport, qui montre des retards significatifs. Il décide de partir plus tôt et envisage d'autres moyens de transport.
+
 **En Route**: Marie, en route pour le travail, reçoit une notification de retard. Elle recherche des options de bus ou de covoiturage via l'application, mais les informations ne sont pas à jour.
-Urgence Logistique: Ahmed doit rapidement réorganiser les itinéraires pour plusieurs livraisons en raison de la grève. Il utilise l'application pour trouver les meilleurs itinéraires alternatifs, en tenant compte des retards et des fermetures.
+
+**Urgence Logistique** : Ahmed doit rapidement réorganiser les itinéraires pour plusieurs livraisons en raison de la grève. Il utilise l'application pour trouver les meilleurs itinéraires alternatifs, en tenant compte des retards et des fermetures.
