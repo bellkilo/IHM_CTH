@@ -1,0 +1,7 @@
+- information en temp réel sur les arrivés et les départs de métro(ou bus)
+- l'utilisateur marque un ou plusieur destinations et les priorités, le système plannifie les itinéraires.
+- Trouver des Alternatives de Transport
+- l'utilisateur signale les informations de travaux, panne, grève, etc(les problème)
+- personnaliser des itinéraires habituels, le système fournit des mises à jour en temps réel sur les états
+- Réseau Social pour le Covoiturage
+- Informations sur les Bornes de Recharge pour Véhicules Électriques
